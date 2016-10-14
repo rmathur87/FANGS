@@ -31,3 +31,6 @@ runBootstraping.sh
 
 startBoostraping.sh
 - example bash shell script to run runBootstraping.sh on the brccluster available for BRC affiliates only at NC State University.
+
+exampleResults directory
+- example of the result files that are created by the simulation; with the simulationParameters.txt file describing the simulation parameters
