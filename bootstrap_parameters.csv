@@ -1,0 +1,3 @@
+Option Name,Descrip,Value
+seed,random seed,92187
+commDir,directory where other scripts can be accessed,~/networkSimulator/simulateData/simulator/Version_1.0/FANGS/
