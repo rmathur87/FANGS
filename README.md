@@ -1,6 +1,5 @@
 # FANGS
-Flexible Algorithm for Network Gene Simulation (FANGS) is a semi-synthetic simulation software which simulates data based on a user defined 
-gene expression dataset, to test and assist in the development of Gene Set Analysis (GSA) methods.
+Flexible Algorithm for Novel Gene set Simulation (FANGS) is a semi-synthetic simulation software which simulates data based on a user defined gene expression dataset, to test and assist in the development of Gene Set Analysis (GSA) methods.
 
 Below is a description of the files available and there functionality.
 
